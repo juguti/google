@@ -22,14 +22,14 @@ body{
 
 }
 #ba{
-    width: 450px;
+    width: 460px;
     border: none;
     background: transparent;
-    font-size: 20px;
+    font-size: 15px;
 }
 #logo{
     position:absolute;
-    top: 40%;
+    top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
